@@ -1,6 +1,6 @@
 # Database-Engineeeeee
 Database Engine that supports some features like:
-- Creating a 
+- Creating a table
 - Inserting into a 
 - Updating a table
 - Deleting from a table
